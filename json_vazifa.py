@@ -110,6 +110,8 @@ import json
     # print(new)
 
 
+print("yangi")
+
 
 
 
