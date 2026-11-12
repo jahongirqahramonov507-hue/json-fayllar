@@ -111,6 +111,9 @@ import json
 
 
 print("yangi")
+print('salomatmisan')
+
+
 
 
 
